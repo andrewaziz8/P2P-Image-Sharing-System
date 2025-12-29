@@ -2,6 +2,9 @@
 
 A robust, decentralized environment for secure image sharing. This project focuses on transparency, load balancing, fault tolerance, and P2P services within a cloud-based infrastructure.
 
+## Live Demo
+[Watch the P2P Sharing System Demo](https://drive.google.com/file/d/1Hzn6aJQsCtR7z_clN1RYOOVJwEcmDz03/view?usp=drivesdk)
+
 ## Key Features
 
 * **Raft-Based Consensus:** Implements a custom **Raft algorithm** to manage a 3-node server cluster, handling leader elections, heartbeats, and cluster state synchronization.
